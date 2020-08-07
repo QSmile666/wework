@@ -1,0 +1,11 @@
+[
+  "test_tag.py::TestTag::test_add",
+  "test_tag.py::TestTag::test_addTag",
+  "test_tag.py::TestTag::test_all",
+  "test_tag.py::TestTag::test_deleteTag",
+  "test_tag.py::TestTag::test_editTag",
+  "test_tag.py::TestTag::test_getTag",
+  "test_tag.py::TestTag::test_query",
+  "test_wework.py::TestWework::test_getToken",
+  "test_wework.py::TestWework::test_query"
+]
